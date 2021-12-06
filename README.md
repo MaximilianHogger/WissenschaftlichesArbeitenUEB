@@ -9,7 +9,9 @@ Hello World Programm Html/JavaScript
 
 # Vorschau:
 <img width="1440" alt="Foto Anwendung" src="https://github.com/MaximilianHogger/WissenschaftlichesArbeitenUEB/blob/main/Anwendung-Foto.png">
+
 # Code:
+
 <img width="1440" alt="Foto Codeausschnitt" src="https://github.com/MaximilianHogger/WissenschaftlichesArbeitenUEB/blob/main/Code-Foto.png">
 
   
